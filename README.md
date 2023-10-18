@@ -23,30 +23,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install the osTicket requirements (PHP Manager for IIS, Microsoft Visual c++, MySQL)
 - Install osTicket
 - Enable PHP Extensions
-- Item 5
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a Resource Group and osTicket Virtual Machine in Microsoft Azure.
+   <img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/8e5cdd70-6f0a-4292-8600-68b60eb39641">
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+ <img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/830e4ff6-8753-4952-8bbf-5f069c562cd7">
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After installing MySQL, I configured the settings for the server 
+<h4>Connected the IP Address created in Azure to Remote Desktop. Next, installed the PHP Manager, MySQL, and configuration of Internet Information Services (IIS Manager) <h4> 
+<img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/5ce9bfdf-6650-457a-b5da-9022cd20b62f">
 </p>
 <br />
+<img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/3d9dbb7a-9f54-4a43-8700-809d892cad47">
+</p>
+<br />
+</p>
+<img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/a40abec5-61fc-4f21-9621-9c85f0ef07d7">
+</p>
+<br />
+<img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/07cacac6-1c75-4d77-9824-ed281075a9ba">
+</p>
+<br />
+  </p>
+<img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/f3260bef-45aa-485e-b221-adef5de5dffb">
+</p>
+<br />
+<h4>osTicket was installed successful<h4> 
+<img src="https://github.com/labuser41/osticket-prereqs/assets/144741692/364ed870-aae4-4124-aa80-30f46b6315b5">
+
